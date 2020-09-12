@@ -1,0 +1,38 @@
+.intro{
+	color: #ffffff;
+	border: 1px black solid;
+	background-color: rgba(0, 0, 0, 0.3);
+}
+
+#block_id{
+	color: #ffffff;
+	border: 1px black solid;
+	background-color: rgba(0, 0, 0, 0.3);
+}
+
+.logo{
+	color: #ffffff;
+}
+
+#next{
+	color: #ffffff;
+	background-color: rgba(0, 0, 0);
+}
+
+#next:hover{
+	border: 3px solid white;
+}
+
+#clicks{
+	color: #ff0000;
+}
+
+#motivation2{
+	color: #ffffff;
+	border: 1px black solid;
+	background-color: rgba(0, 0, 0);
+}
+
+#motivation1{
+	border: 3px solid black;
+}
